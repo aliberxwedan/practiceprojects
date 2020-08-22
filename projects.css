@@ -1,0 +1,55 @@
+
+        body{
+            font-family: 'Yrsa', serif;
+        }
+        h1 {
+			text-align: center;
+        }
+        table{
+            margin: auto;
+            width: 75%;
+            border-top: 2px solid #0f384b;
+            border-collapse: collapse;
+        }
+        .header{
+            border-bottom: 1px solid #237499;
+        }
+        tr.border_bottom td {
+            border-bottom: 1px solid #237499;
+          }
+        tr.border_bottom th {
+            border-bottom: 1px solid #237499;
+          }
+        th{
+            text-align: left;
+
+        }
+        .column1 {
+            width: 20%;
+            height: 80px;
+            padding: 4px;
+        }
+        .column2 {
+            width: 50%;
+            height: 80px;
+            padding: 5px;
+        }        
+        .column3 {
+            width: 10px;
+            height: 80px;
+            padding: 4px;
+        }        
+        .column5 {
+            width: 10px;
+            height: 80px;
+            padding: 5px;
+        }
+        .pdf {
+            color: red;
+        }
+        .pdf:hover {
+            color: blue;
+        }
+
+
+	
